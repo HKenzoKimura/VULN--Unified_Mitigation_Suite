@@ -8,7 +8,7 @@
 > Script de hardening que aplica múltiplas mitigações de segurança de forma automatizada — cobrindo vetores de ataque que vão de null sessions e cifragem fraca a exploits de hardware como Spectre/Meltdown. Baseado em recomendações do **CIS Benchmark**, **Microsoft Security Baseline** e **DISA STIG**.
 
 
-## `Developed by: HKK´
+## `Developed by: HKK`
 
 ---
 
